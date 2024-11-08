@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-, "util/calculator.jsx", "app/index.jsx"  ]
+, "util/calculatorAntigo.jsx", "app/indexAntiga.jsx"  ]
 }
